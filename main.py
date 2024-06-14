@@ -9,7 +9,9 @@ from api_v1 import router as router_v1
 
 origins = [
     'http://localhost:5173',
-    'http://83.166.238.188'
+    'http://83.166.238.188',
+    'https://seashells-exhibition.ru',
+    'http://seashells-exhibition.ru'
 ]
 
 
